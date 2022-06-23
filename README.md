@@ -1,13 +1,13 @@
 # Introduction:
 **AdwaitaX (as in AdwaitaX-panded, or AdwaitaX-tended) is very simple yet quiet usefull set of additional desktop icons for GNOME Shell's default icons.**  
 
-This project's goal is to enchance user experience and match many third-party (including proprietary) apps icons with Adwaita design made by GNOME Project, while still maitaning them as close to the original look as possibile.  
-**<sub><sup>Unfortunately, for now in many cases it doesn't respects GNOME Human Interface Guidelines colours, and instead it tries to use colour pallet of original icon, but there is a future plan of adding special HIG version</sup></sub>**
+This project's goal is to enchance user experience and match many third-party (including proprietary) apps icons with [Adwaita design](https://developer.gnome.org/hig/guidelines/app-icons.html#gnome-app-icon-style) made by GNOME Project, while still maitaning them as close to the original look as possibile.  
+**<sub><sup>Unfortunately, for now in many cases it doesn't respects [GNOME Human Interface Guidelines colour pallete](https://developer.gnome.org/hig/reference/palette.html), and instead tries to use colours of original icon (but there is a future plan of adding special HIG version)</sup></sub>**
 
 **This project _won't_ change any native GTK+ program's icons and neither does include them.** (yes, I'm looking at you [Adwaita++](https://github.com/Bonandry/adwaita-plus))
 
 # Requirements:
-- original Adwaita icon theme installed (recommended for full experience)
+- original [Adwaita icon theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme/-/tree/master/Adwaita) installed (recommended for full experience)
 
 # Installation:
 ### Manual:
@@ -18,7 +18,7 @@ This project's goal is to enchance user experience and match many third-party (i
 (installation script in the future)
 
 # Bugs and requesting new icons:
-If you want to report an issiue or request a new icon just [create new issue](https://github.com/grungefox/AdwaitaX-icon-theme/issues).  
+If you want to report an issue or request a new icon just [create new issue](https://github.com/grungefox/AdwaitaX-icon-theme/issues).  
 
 Howewer request will be denied if:
 - it's duplicate of another person request
