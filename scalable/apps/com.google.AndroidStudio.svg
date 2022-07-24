@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 128 128"
-   version="1.1"
-   id="svg101"
-   sodipodi:docname="com.google.AndroidStudio.svg"
-   width="128"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    height="128"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="128"
+   sodipodi:docname="com.google.AndroidStudio.svg"
+   id="svg101"
+   version="1.1"
+   viewBox="0 0 128 128"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,7 +20,7 @@
      inkscape:pageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
-     showgrid="false"
+     showgrid="true"
      fit-margin-bottom="0"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
@@ -28,15 +28,22 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="4.2992186"
-     inkscape:cx="67.454118"
-     inkscape:cy="75.827732"
+     inkscape:zoom="4"
+     inkscape:cx="67.25"
+     inkscape:cy="50.375"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg101" />
+     inkscape:current-layer="svg101"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#606060">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1124"
+       enabled="true" />
+  </sodipodi:namedview>
   <defs
      id="defs30">
     <path
@@ -130,6 +137,46 @@
        fx="15.828767"
        fy="14.563382"
        r="124.73273" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6011">
+      <g
+         id="g6019"
+         transform="matrix(1.1842106,0,0,1.1842106,4.0000001,4.0000022)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <mask
+           id="mask6015"
+           fill="#ffffff">
+          <use
+             xlink:href="#path-1"
+             id="use6013"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </mask>
+        <circle
+           id="circle6017"
+           fill="#45ef8a"
+           fill-rule="nonzero"
+           mask="url(#mask-2)"
+           cx="50.666668"
+           cy="50.666668"
+           r="50.666668"
+           style="fill:#ffffff" />
+      </g>
+    </clipPath>
+    <mask
+       id="mask-23"
+       fill="#ffffff">
+      <use
+         xlink:href="#path-22"
+         id="use126"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
   </defs>
   <g
      id="Clipped"
@@ -155,32 +202,6 @@
        cy="50.666668"
        r="50.666668"
        style="fill:#57e389" />
-  </g>
-  <g
-     id="g44"
-     transform="matrix(1.1842106,0,0,1.1842106,4.0000001,4.0000022)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-4"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-3"
-         id="use38"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
-    <g
-       id="g41" />
-    <path
-       d="m 50.666667,100.66667 c 27.76,0 50.293333,-22.32667 50.646663,-50.000003 h 0.02 c 0,27.98 -22.686663,50.666663 -50.666663,50.666663 C 22.686667,101.33333 0,78.646667 0,50.666667 H 0.02 C 0.37333333,78.34 22.906667,100.66667 50.666667,100.66667 Z"
-       id="Shape"
-       fill-opacity="0.2"
-       fill="#263238"
-       fill-rule="nonzero"
-       mask="url(#mask-4)"
-       transform="translate(-104.7111,-3.3777746)" />
   </g>
   <g
      id="g53"
@@ -284,70 +305,14 @@
        mask="url(#mask-12)"
        points="101.33333,51.333333 0,51.333333 0,50.666667 101.33333,50.666667 " />
   </g>
-  <g
-     id="g89"
-     transform="matrix(1.072758,0,0,1.072758,9.6469295,10.183315)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-14"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-13"
-         id="use82"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
-    <g
-       id="g85" />
-    <polygon
-       id="polygon87"
-       fill="url(#linearGradient-15)"
-       fill-rule="nonzero"
-       mask="url(#mask-14)"
-       points="12.946667,109.33333 101.33333,109.33333 101.33333,64 56,18.666667 45.333333,26.666667 39.886667,50.666667 "
-       style="fill:url(#linearGradient-15)" />
-  </g>
-  <g
-     id="g105"
-     transform="matrix(1.1842106,0,0,1.1842106,4.0000001,4.0000022)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-19"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-18"
-         id="use98"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
-    <g
-       id="g101" />
-    <path
-       d="m 50.666667,0.66666667 c 27.76,0 50.293333,22.32666633 50.646663,50.00000033 h 0.02 C 101.33333,22.686667 78.646667,0 50.666667,0 22.686667,0 0,22.686667 0,50.666667 H 0.02 C 0.37333333,22.993333 22.906667,0.66666667 50.666667,0.66666667 Z"
-       id="path103"
-       fill-opacity="0.2"
-       fill="#ffffff"
-       fill-rule="nonzero"
-       mask="url(#mask-19)"
-       transform="translate(-104.71111,-3.3777794)" />
-  </g>
   <path
      style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="M 123.9375,62.246106 A 60.000008,60.000008 0 0 1 64.000003,121.00001 60.000008,60.000008 0 0 1 4.0625051,62.753918 60.000008,60.000008 0 0 0 4.0000051,64.000012 60.000008,60.000008 0 0 0 64.000003,124.00001 60.000008,60.000008 0 0 0 124,64.000012 60.000008,60.000008 0 0 0 123.9375,62.246106 Z"
      id="circle1110"
      inkscape:connector-curvature="0" />
-  <path
-     style="display:inline;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 0.5;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-     d="M 123.9375,65.753912 A 60.000008,60.000008 0 0 0 64.000002,7.0000022 60.000008,60.000008 0 0 0 4.0625044,65.246092 60.000008,60.000008 0 0 1 4.0000044,64.000002 60.000008,60.000008 0 0 1 64.000002,4.0000022 60.000008,60.000008 0 0 1 124,64.000002 a 60.000008,60.000008 0 0 1 -0.0625,1.75391 z"
-     id="circle1110-3"
-     inkscape:connector-curvature="0" />
   <g
      id="g124"
-     transform="matrix(1.072758,0,0,1.072758,9.6469295,10.183315)"
+     transform="matrix(1.072758,0,0,1.072758,9.6469295,9.6469347)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <mask
        id="mask-21"
@@ -381,63 +346,27 @@
            fill-rule="nonzero"
            opacity="0.3"
            style="fill:#c0bfbc" />
-        <polygon
-           id="polygon117"
-           fill-opacity="0.2"
-           fill="#ffffff"
-           fill-rule="nonzero"
-           points="46.386667,54.973333 46.386667,54.306667 18.113333,5.3333333 17.726667,5.3333333 " />
-        <path
-           d="m 45.053333,63.333333 c -0.246666,0 -0.473333,-0.06667 -0.673333,-0.18 L 37.146667,58.98 6.18,5.3333333 H 5.7933333 L 37.153333,59.646667 44.386667,63.82 c 0.2,0.113333 0.426666,0.18 0.673333,0.18 0.733333,0 1.333333,-0.6 1.333333,-1.333333 V 62 c -0.0067,0.733333 -0.606666,1.333333 -1.34,1.333333 z"
-           id="path119"
-           fill-opacity="0.1"
-           fill="#212121"
-           fill-rule="nonzero" />
       </g>
     </g>
   </g>
   <g
-     id="g143"
+     id="g129"
      transform="matrix(1.072758,0,0,1.072758,9.6469295,10.183315)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1" />
+  <g
+     id="g141"
+     mask="url(#mask-23)"
+     transform="matrix(1.072758,0,0,1.072758,9.6469295,9.6469347)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-23"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-22"
-         id="use126"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
     <g
-       id="g129" />
-    <g
-       id="g141"
-       mask="url(#mask-23)">
-      <g
-         transform="translate(6,45.333333)"
-         id="g139">
-        <path
-           d="M 71.333333,5.3333333 C 71.333333,20.06 59.393333,32 44.666667,32 c -4.38,0 -8.513334,-1.06 -12.16,-2.933333 L 44.666667,8 l 1.54,-2.6666667 h -12.32 L 5.6066667,54.306667 v 8.36 C 5.6066667,63.4 6.2066667,64 6.94,64 7.1866667,64 7.4133333,63.93333 7.6133333,63.82 l 7.2333337,-4.173333 12.32,-21.333334 c 5.22,2.773334 11.173333,4.353334 17.5,4.353334 C 65.286667,42.666667 82,25.953333 82,5.3333333 Z"
-           id="path133"
-           fill="#d7effe"
-           fill-rule="nonzero"
-           style="fill:#deddda" />
-        <path
-           d="M 33.886667,5.3333333 5.6066667,54.306667 v 0.666666 L 34.273333,5.3333333 Z M 44.666667,32 c -4.38,0 -8.513334,-1.06 -12.16,-2.933333 v 0.666666 c 3.646666,1.873334 7.78,2.933334 12.16,2.933334 14.726666,0 26.666666,-11.94 26.666666,-26.666667 H 81.98 C 81.986667,5.78 82,5.56 82,5.3333333 H 71.333333 C 71.333333,20.06 59.393333,32 44.666667,32 Z"
-           id="path135"
-           fill-opacity="0.4"
-           fill="#ffffff"
-           fill-rule="nonzero" />
-        <path
-           d="M 46.206667,5.3333333 H 45.82 L 32.5,28.4 v 0.666667 z m 35.773333,0 C 81.62,25.64 65.06,42 44.666667,42 c -6.326667,0 -12.28,-1.58 -17.5,-4.353333 L 14.846667,58.98 7.6133333,63.153333 c -0.2,0.113334 -0.4266666,0.18 -0.6733333,0.18 -0.7333333,0 -1.3333333,-0.6 -1.3333333,-1.333333 v 0.666667 C 5.6066667,63.4 6.2066667,64 6.94,64 7.1866667,64 7.4133333,63.93333 7.6133333,63.82 l 7.2333337,-4.173333 12.32,-21.333334 c 5.22,2.773334 11.173333,4.353334 17.5,4.353334 C 65.286667,42.666667 82,25.953333 82,5.3333333 Z"
-           id="path137"
-           fill-opacity="0.1"
-           fill="#212121"
-           fill-rule="nonzero" />
-      </g>
+       transform="translate(6,45.333333)"
+       id="g139">
+      <path
+         d="M 71.333333,5.3333333 C 71.333333,20.06 59.393333,32 44.666667,32 c -4.38,0 -8.513334,-1.06 -12.16,-2.933333 L 44.666667,8 l 1.54,-2.6666667 h -12.32 L 5.6066667,54.306667 v 8.36 C 5.6066667,63.4 6.2066667,64 6.94,64 7.1866667,64 7.4133333,63.93333 7.6133333,63.82 l 7.2333337,-4.173333 12.32,-21.333334 c 5.22,2.773334 11.173333,4.353334 17.5,4.353334 C 65.286667,42.666667 82,25.953333 82,5.3333333 Z"
+         id="path133"
+         fill="#d7effe"
+         fill-rule="nonzero"
+         style="fill:#deddda" />
     </g>
   </g>
   <g
@@ -475,60 +404,4 @@
       </g>
     </g>
   </g>
-  <g
-     id="g167"
-     transform="matrix(1.072758,0,0,1.072758,9.6469295,10.183315)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-27"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-26"
-         id="use160"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
-    <g
-       id="g163" />
-    <path
-       d="M 62.666667,26.666667 H 56 v 0.666666 h 6.666667 c 2.2,0 4,1.8 4,4 v -0.666666 c 0,-2.2 -1.8,-4 -4,-4 z M 56,18.666667 H 45.333333 v 0.666666 H 56 Z m -10.666667,8 h -6.666666 c -2.2,0 -4,1.8 -4,4 v 0.666666 c 0,-2.2 1.8,-4 4,-4 h 6.666666 z m 5.333334,22.666666 C 46.986667,49.333333 44,46.346667 44,42.666667 v 0.666666 C 44,47.013333 46.986667,50 50.666667,50 c 3.68,0 6.666666,-2.986667 6.666666,-6.666667 v -0.666666 c 0,3.68 -2.986666,6.666666 -6.666666,6.666666 z"
-       id="path165"
-       fill-opacity="0.1"
-       fill="#ffffff"
-       fill-rule="nonzero"
-       mask="url(#mask-27)" />
-  </g>
-  <g
-     id="g176"
-     transform="matrix(1.072758,0,0,1.072758,9.6469295,10.183315)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <mask
-       id="mask-29"
-       fill="#ffffff">
-      <use
-         xlink:href="#path-28"
-         id="use169"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </mask>
-    <g
-       id="g172" />
-    <path
-       d="m 50.666667,36 c 3.68,0 6.666666,2.986667 6.666666,6.666667 V 42 c 0,-3.68 -2.986666,-6.666667 -6.666666,-6.666667 C 46.986667,35.333333 44,38.32 44,42 v 0.666667 C 44,38.986667 46.986667,36 50.666667,36 Z m 2.826666,27.16 c -0.726666,0.72 -1.72,1.173333 -2.826666,1.173333 C 49.56,64.333333 48.56,63.886667 47.84,63.16 L 34.666667,50 v 0.666667 L 47.84,63.826667 C 48.566667,64.546667 49.56,65 50.666667,65 c 1.106666,0 2.106666,-0.446667 2.826666,-1.173333 l 13.173334,-13.16 V 50 Z"
-       id="path174"
-       fill-opacity="0.1"
-       fill="#212121"
-       fill-rule="nonzero"
-       mask="url(#mask-29)" />
-  </g>
-  <path
-     d="M -4.5401169e-6,-69.473693 C -4.5401169e-6,-102.60791 -26.865795,-129.4737 -60.000008,-129.4737 -93.13422,-129.4737 -120,-102.60791 -120,-69.473693 c 0,18.221046 8.13157,34.531581 20.952625,45.528943 l -7.199995,12.4658 v 9.9 c 0,0.86842003 0.71052,1.578950030058374 1.57894,1.578950030058374 0.29211,0 0.56054,-0.07900000005837 0.79738,-0.213160000058374 l 8.565781,-4.94211003 6.686846,-11.57368 c 8.50262,4.62632 18.252629,7.25527 28.618415,7.25527 10.365786,0 20.115795,-2.62895 28.626314,-7.25527 l 6.686846,11.57368 8.565783,4.94211003 c 0.23685,0.13421 0.50527,0.213160000058374 0.79738,0.213160000058374 0.86842,0 1.57894,-0.710530000058374 1.57894,-1.578950030058374 v -9.9 l -7.2,-12.4658 C -8.1315845,-34.942112 -4.5401169e-6,-51.252647 -4.5401169e-6,-69.473693 Z"
-     id="path178"
-     fill="url(#radialGradient-30)"
-     fill-rule="nonzero"
-     style="fill:url(#radialGradient692);stroke:none;stroke-width:1.18421" />
 </svg>
