@@ -13,7 +13,7 @@ This project's goal is to enchance user experience and match many third-party (i
 ### Manual:
 1. [Download `main` branch of this repository](https://github.com/grungefox/AdwaitaX-icon-theme/archive/refs/heads/main.zip)
 2. Unzip downloaded files
-3. Copy or move them to either `~/.icons/` (create if doesn't exist) or `/usr/share/icons/` (the second option is recommended, but root access is requaried)
+3. Copy or move them to either `~/.local/share/themes` (create if doesn't exist) or `/usr/share/icons/` (the second option is recommended, but root access is requaried)
 
 (installation script in the future)
 
